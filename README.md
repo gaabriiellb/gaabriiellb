@@ -1,4 +1,4 @@
-## Olá, eu sou Gabriell Brandalline👋
+## Olá, eu sou Gabriell Brandalline 👋
 
 Sou um programador Front End, atualmente estou aprendendo e criando Projetos com:
 <br>
@@ -12,7 +12,4 @@ Sou um programador Front End, atualmente estou aprendendo e criando Projetos com
 <br>
 
 
-[![Gabriell stats](https://github-readme-stats.vercel.app/api?username=gaabriiellb)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaabriiellb)](https://github.com/anuraghazra/github-readme-stats)
